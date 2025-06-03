@@ -1,4 +1,4 @@
-const supabaseUrl = "https://supabase.com/dashboard/project/gfvyskhitupcsbvmeyhf/settings/api-keys";
+const supabaseUrl = "https://gfvyskhitupcsbvmeyhf.supabase.co";
 const supabaseKey = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Imdmdnlza2hpdHVwY3Nidm1leWhmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg5NTM5NDUsImV4cCI6MjA2NDUyOTk0NX0.MBeZJQttItXz3-NCpupmwvGxUq0VxRZT7YouFcxwaJY";
 const _supabase = supabase.createClient(supabaseUrl, supabaseKey);
 
